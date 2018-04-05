@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Terms</key>
+	<dict>
+		<key>Agent</key>
+		<dict>
+			<key>Definition</key>
+			<string>An individual in the simulation. It&apos;s represented by a colored square</string>
+			<key>FirstUse</key>
+			<dict>
+				<key>Title</key>
+				<string>Introduction</string>
+				<key>PageReference</key>
+				<string>Chapter1/Introduction</string>
+			</dict>
+		</dict>
+		<key>Emergence</key>
+		<dict>
+			<key>Definition</key>
+			<string>The ability of a system to possess properties that its individual components do not have.</string>
+			<key>FirstUse</key>
+			<dict>
+				<key>Title</key>
+				<string>The Simulation</string>
+				<key>PageReference</key>
+				<string>Chapter1/The%20Simulation</string>
+			</dict>
+		</dict>
+		<key>Parameters</key>
+		<dict>
+			<key>Definition</key>
+			<string>A set of fixed values that determines some characteristics of a simulation.</string>
+			<key>FirstUse</key>
+			<dict>
+				<key>Title</key>
+				<string>Let&apos;s Experiment!</string>
+				<key>PageReference</key>
+				<string>Chapter1/Let&apos;s%20Experiment!</string>
+			</dict>
+		</dict>
+		<key>Simulation</key>
+		<dict>
+			<key>Definition</key>
+			<string>The process of running a computer model.</string>
+			<key>FirstUse</key>
+			<dict>
+				<key>Title</key>
+				<string>Introduction</string>
+				<key>PageReference</key>
+				<string>Chapter1/Introduction</string>
+			</dict>
+		</dict>
+		<key>Model</key>
+		<dict>
+			<key>Definition</key>
+			<string>A simplified representation of a real phenomena. </string>
+			<key>FirstUse</key>
+			<dict>
+				<key>Title</key>
+				<string>Introduction</string>
+				<key>PageReference</key>
+				<string>Chapter1/Introduction</string>
+			</dict>
+		</dict>
+	</dict>
+</dict>
+</plist>
