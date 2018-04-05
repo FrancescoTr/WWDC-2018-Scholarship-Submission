@@ -15,4 +15,6 @@ The simulation can be explored by setting four parameters:
 
 The playground was implemented using SpriteKit to show the simulation, UIKit for the interface, and it also takes advantage of several features of Playground Books, such as page annotations, glossary and PlaygroundSupport module.
 
+Click on the picture to watch a video of the playground.
+
 [![Playground Video](https://img.youtube.com/vi/XqmbZuS13Lo/0.jpg)](https://www.youtube.com/watch?v=XqmbZuS13Lo)
