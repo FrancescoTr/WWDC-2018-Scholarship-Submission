@@ -18,3 +18,5 @@ The playground was implemented using SpriteKit to show the simulation, UIKit for
 Click on the picture to watch a video of the playground.
 
 [![Playground Video](https://img.youtube.com/vi/XqmbZuS13Lo/0.jpg)](https://www.youtube.com/watch?v=XqmbZuS13Lo)
+
+[Subscribe in Swift Playground](https://developer.apple.com/ul/sp0?url=https://lucasassisro.github.io/colorpiano/feed.json)
